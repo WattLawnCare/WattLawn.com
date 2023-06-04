@@ -1,5 +1,5 @@
 # WattLawn.com
-<!DOCTYPE html>
+
 <html>
 <head>
   <title>Lawn Services Estimates</title>
